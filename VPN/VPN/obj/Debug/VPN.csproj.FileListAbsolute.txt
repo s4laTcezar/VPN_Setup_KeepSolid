@@ -1,0 +1,16 @@
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.Form1.resources
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.Form2.resources
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.Form3.resources
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.Form4.resources
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.Form5.resources
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.Properties.Resources.resources
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.csproj.GenerateResource.cache
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.csproj.CoreCompileInputs.cache
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\bin\Debug\VPN.exe.config
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\bin\Debug\VPN.exe
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\bin\Debug\VPN.pdb
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.exe
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.pdb
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.csproj.AssemblyReference.cache
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.Form6.resources
+C:\Users\VsemPC\Desktop\VPN\VPN\VPN\obj\Debug\VPN.Form7.resources
