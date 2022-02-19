@@ -1,0 +1,15 @@
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\bin\Debug\Wpf_Setup.exe.config
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\bin\Debug\Wpf_Setup.exe
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\bin\Debug\Wpf_Setup.pdb
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\Wpf_Setup.csproj.AssemblyReference.cache
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\MainWindow.g.cs
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\App.g.cs
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\Wpf_Setup_MarkupCompile.cache
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\Wpf_Setup_MarkupCompile.lref
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\MainWindow.baml
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\Wpf_Setup.g.resources
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\Wpf_Setup.Properties.Resources.resources
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\Wpf_Setup.csproj.GenerateResource.cache
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\Wpf_Setup.csproj.CoreCompileInputs.cache
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\Wpf_Setup.exe
+C:\Users\VsemPC\Desktop\VPN_SETUP\Wpf_Setup\Wpf_Setup\obj\Debug\Wpf_Setup.pdb
